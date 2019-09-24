@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "circular": "^1.0.5"
+    "cheerio": "^1.0.0-rc.3",
+    "circular": "^1.0.5",
+    "request": "^2.88.0"
   }
 }
